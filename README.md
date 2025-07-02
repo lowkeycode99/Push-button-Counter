@@ -41,6 +41,6 @@ This project serves as a foundation for learning embedded systems concepts:
 - A small delay  is added to avoid false triggers (debouncing).
 - 
 # Simulation Output
-
+![Image](https://github.com/user-attachments/assets/6b4d018d-1b87-43ad-8279-d6a1175abd86)
 
 
